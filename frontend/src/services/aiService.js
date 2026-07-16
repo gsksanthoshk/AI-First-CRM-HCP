@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://127.0.0.1:8000",
+  baseURL: "https://ai-first-crm-hcp-8x4b.onrender.com",
 });
 
 export const generateSummary = async (notes) => {
