@@ -26,3 +26,5 @@ urllib3==2.3.0
 websocket-client==1.8.0
 wsproto==1.2.0
 yt-dlp==2025.12.8
+SQLAlchemy==2.0.41
+psycopg2-binary==2.9.10
